@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gugashrikannan
 - 👀 I’m interested in PYTHON,HTML,CSS
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me gugashrikannan@gmail.com
 
 <!---
